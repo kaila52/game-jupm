@@ -1,0 +1,20 @@
+{
+    "frames":[{
+        "name":"pokemon-01",
+        "position":{
+            "x":0,
+            "y":0,
+            "w":64,
+            "h":64
+        }
+    },
+    {
+        "name":"pokemon-02",
+        "position":{
+            "x":64,
+            "y":0,
+            "w":64,
+            "h":64
+        }
+    }
+]}
